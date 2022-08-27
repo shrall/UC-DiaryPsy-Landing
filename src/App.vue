@@ -5,7 +5,7 @@
       class="w-full flex items-center gap-4 font-nunito sticky px-4 xl:px-36 py-2 xl:py-0"
     >
       <img src="./assets/logo.svg" class="xl:w-24 xl:h-24 w-12 h-12" />
-      <div class="text-md xl:text-3xl font-bold">Diary Karakter</div>
+      <div class="text-md xl:text-3xl font-bold">Karakter Buah Roh</div>
       <a
         href="#"
         target="_blank"
@@ -29,7 +29,7 @@
     <div class="grid grid-cols-12 items-center my-24 px-4 xl:px-36">
       <div class="col-span-12 xl:col-span-3 flex flex-col items-center xl:items-start gap-4">
         <div class="text-md xl:text-3xl font-bold">
-          Yuk isi Diary harianmu dengan Diary Karakter
+          Yuk isi Diary harianmu dengan Karakter Buah Roh
         </div>
         <div class="text-xl">
           Tingkatkan pembangunan karakter dengan mengisi refleksi harian pada
@@ -144,7 +144,7 @@
           <img src="./assets/playstore.svg" alt="" srcset=""
         /></a>
       </div>
-      <div class="z-10 mb-12">©2022 Diary Karakter. Surabaya, Indonesia</div>
+      <div class="z-10 mb-12">©2022 Karakter Buah Roh. Surabaya, Indonesia</div>
     </div>
   </div>
 </template>
