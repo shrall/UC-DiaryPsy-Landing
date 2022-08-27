@@ -12,7 +12,7 @@ module.exports = {
         ],
       },
       backgroundImage: {
-        // "homepage": "url('/src/assets/images/homepage.svg')",
+        "footer": "url('/src/assets/footer.svg')",
       },
       fontFamily: {
         nunito: ['"Nunito"'],
@@ -21,6 +21,7 @@ module.exports = {
         kasih: {
           200: "#F9E2E4",
           300: "#C67181",
+          350: "#D93D65",
           400: "#B72619",
         },
         light: "#ECF0F9",
