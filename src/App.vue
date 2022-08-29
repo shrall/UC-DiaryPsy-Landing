@@ -5,12 +5,12 @@
       class="w-full flex items-center gap-4 font-nunito sticky px-4 xl:px-36 py-2 xl:py-0"
     >
       <img src="./assets/logo.svg" class="xl:w-24 xl:h-24 w-12 h-12" />
-      <div class="text-md xl:text-3xl font-bold">Karakter Buah Roh</div>
+      <div class="text-md xl:text-3xl font-bold">Diary of Character</div>
       <a
         href="#"
         target="_blank"
         class="
-          text-kasih-350 text-md xl:text-3xl
+          text-kasih-350 text-md xl:text-xl
           border-2
           ml-auto
           border-kasih-350
@@ -29,11 +29,11 @@
     <div class="grid grid-cols-12 items-center my-24 px-4 xl:px-36">
       <div class="col-span-12 xl:col-span-3 flex flex-col items-center xl:items-start gap-4">
         <div class="text-md xl:text-3xl font-bold">
-          Yuk isi Diary harianmu dengan Karakter Buah Roh
+          Isi Diary harianmu bersama Karakter Buah Roh
         </div>
         <div class="text-xl">
           Tingkatkan pembangunan karakter dengan mengisi refleksi harian pada
-          aplikasi ini.
+          aplikasi Diary of Character.
         </div>
         <a
           href="#"
@@ -42,10 +42,10 @@
             rounded-xl
             bg-kasih-350
             text-light
-            px-6
-            py-3
+            px-4
+            py-2
             w-fit
-            text-md xl:text-3xl
+            text-md xl:text-xl
             cursor-pointer
             hover:opacity-80
           "
@@ -80,10 +80,10 @@
             rounded-xl
             text-kasih-350
             bg-light
-            px-6
-            py-3
+            px-4
+            py-2
             w-fit
-            text-md xl:text-3xl
+            text-md xl:text-xl
             cursor-pointer
             hover:opacity-80
           "
@@ -144,7 +144,7 @@
           <img src="./assets/playstore.svg" alt="" srcset=""
         /></a>
       </div>
-      <div class="z-10 mb-12">©2022 Karakter Buah Roh. Surabaya, Indonesia</div>
+      <div class="z-10 mb-12">©2022 Diary of Character. Surabaya, Indonesia</div>
     </div>
   </div>
 </template>
