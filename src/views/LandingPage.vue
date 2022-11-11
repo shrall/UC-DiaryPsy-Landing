@@ -18,7 +18,7 @@
       <img src="../assets/logo.svg" class="xl:w-24 xl:h-24 w-12 h-12" />
       <div class="text-md xl:text-3xl font-bold">Diary of Character</div>
       <a
-        href="#"
+        href="https://play.google.com/store/apps/details?id=com.uctc.diaryOfCharacter&pli=1"
         target="_blank"
         class="
           text-kasih-350 text-md
@@ -56,7 +56,7 @@
           aplikasi Diary of Character.
         </div>
         <a
-          href="#"
+          href="https://play.google.com/store/apps/details?id=com.uctc.diaryOfCharacter&pli=1"
           target="_blank"
           class="
             rounded-xl
@@ -70,7 +70,7 @@
             cursor-pointer
             hover:opacity-80
           "
-          >Coba Sekarang</a
+          >Download Sekarang</a
         >
       </div>
       <div class="col-span-12 xl:col-span-9 mt-4 xl:mt-0">
@@ -116,7 +116,7 @@
           dipelajari dan menerapkannya dalam kehidupan.
         </div>
         <a
-          href="#"
+          href="https://play.google.com/store/apps/details?id=com.uctc.diaryOfCharacter&pli=1"
           target="_blank"
           class="
             rounded-xl
@@ -130,7 +130,7 @@
             cursor-pointer
             hover:opacity-80
           "
-          >Coba Sekarang</a
+          >Download Sekarang</a
         >
       </div>
     </div>
@@ -188,7 +188,7 @@
       <div class="bg-black opacity-80 w-full h-full absolute"></div>
       <div class="flex flex-col xl:flex-row items-center z-10 xl:gap-4">
         <img src="../assets/logo-white.svg" alt="" srcset="" />
-        <a href="#" target="_">
+        <a href="https://play.google.com/store/apps/details?id=com.uctc.diaryOfCharacter&pli=1" target="_">
           <img src="../assets/playstore.svg" alt="" srcset=""
         /></a>
       </div>
